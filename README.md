@@ -1,16 +1,13 @@
-## Hi there 👋
+## Thanks for visiting my profile! 👋
 
-<!--
-**marcus-a38/marcus-a38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Marcus, a full-stack developer and student from Massachusetts.
 
-Here are some ideas to get you started:
+Here's a little bit about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - 💼 I am currently employed as a Manufacturing Services Admin intern at Infineon Technologies AG.
+  - 💻 I am currently learning C#, ASP.NET, and web app development with Razor & Blazor.
+  - 👍 As of late, my favorite programming language has been JavaScript.
+  - 🌲 Outside of the world of computers, I enjoy gardening and hiking, especially with the company of my dog.
+
+If you're looking to network or have any general inquiries, don't hesitate to reach out via LinkedIn or Email.
+Both are displayed on my profile sidebar.
